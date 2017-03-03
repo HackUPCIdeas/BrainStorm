@@ -15,3 +15,5 @@ Not only musicians, mime,painters....
 
 
 We don't care what they will do with the money, we just want to help them.
+
+Street performers social network
