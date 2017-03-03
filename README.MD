@@ -18,7 +18,7 @@ We don't care what they will do with the money, we just want to help them.
 
 Street performers social network
 
-*Specs for musicians:
+* Specs for musicians:
 
 Try to do some feature for join people (guitarist searching for violinist).
 
