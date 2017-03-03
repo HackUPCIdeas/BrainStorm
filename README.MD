@@ -12,3 +12,6 @@ All artist in the app will have a QR code or LOGO (Read it using AR).
 Contact with artist can be good for contract it for private or public events.
 
 Not only musicians, mime,painters....
+
+
+We don't care what they will do with the money, we just want to help them.
